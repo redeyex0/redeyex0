@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Hassan!
 
-<!--
-**redeyex0/redeyex0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at New Cairo Academy  
+💻 I love working with Python, Java, HTML, and networking (CCNA certified)  
+🌍 Based in Cairo, Egypt
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools
+- Programming: Python, Java, HTML/CSS
+- Networking: Cisco CCNA
+- Tools: Git, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+Check out my pinned repositories below!
+
+## 📫 Connect with me
+- Email: has022san@gmail.com
